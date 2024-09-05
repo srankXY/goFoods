@@ -18,7 +18,7 @@
 
 ![image-20240905140419661](https://raw.githubusercontent.com/srankXY/goFoods/master/static/img/4.png)
 
-![image-20240905141409064](E:\Git\uni-app\goFoods\goFoods\static\img\5.png)
+![image-20240905141409064](https://raw.githubusercontent.com/srankXY/goFoods/master/static/img/5.png)
 
 
 
