@@ -1,0 +1,127 @@
+{
+	// "easycom": {
+	// 		"^u-(.*)": "@/uni_modules/uview-ui/components/u-$1/u-$1.vue"
+	// 	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "食域"
+			}
+		}
+		,{
+		    "path" : "pages/about/about",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "我的",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/push/push",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "发布",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+	    ,{
+            "path" : "pages/about/userInfo/userInfo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/about/wallet/wallet",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/about/vip/vip",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/about/cert/cert",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/about/set/set",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/goodsDetails/goodsDetails",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/order/order",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "rgb(0,0,0,0.5)",
+		"selectedColor": "rgb(0,0,0,1)",
+		// "height": "100rpx",
+		"list": [
+			{
+				"text": "首页",
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabBar/home.png",
+				"selectedIconPath": "static/tabBar/home-c.png"
+			},
+			{
+				"text": "发布",
+				"pagePath": "pages/push/push",
+				"iconPath": "static/tabBar/push.png",
+				"selectedIconPath": "static/tabBar/push-c.png"
+			},
+			{
+				"text": "我的",
+				"pagePath": "pages/about/about",
+				"iconPath": "static/tabBar/about.png",
+				"selectedIconPath": "static/tabBar/about-c.png"
+			}
+		]
+		
+	},
+	"uniIdRouter": {}
+}
