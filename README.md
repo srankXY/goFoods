@@ -20,7 +20,7 @@
 
 ![image-20240905141409064](C:\Users\Windows\AppData\Roaming\Typora\typora-user-images\image-20240905141409064.png)
 
-![](C:\Users\Windows\AppData\Roaming\Typora\typora-user-images\image-20240905140454237.png
+
 
 ![image-20240905140517784](C:\Users\Windows\AppData\Roaming\Typora\typora-user-images\image-20240905140517784.png)
 
