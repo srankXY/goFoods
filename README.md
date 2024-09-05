@@ -4,31 +4,31 @@
 
 ### 首页
 
-![](C:\Users\Windows\AppData\Roaming\Typora\typora-user-images\image-20240905140256637.png)
+![](https://raw.githubusercontent.com/srankXY/goFoods/master/static/img/1.png)
 
 ### 首页条件筛选
 
-![image-20240905120312406](C:\Users\Windows\AppData\Roaming\Typora\typora-user-images\image-20240905120312406.png)
+![image-20240905120312406](https://raw.githubusercontent.com/srankXY/goFoods/master/static/img/2.png)
 
 ### 发布页
 
-![image-20240905140404246](C:\Users\Windows\AppData\Roaming\Typora\typora-user-images\image-20240905140404246.png)
+![image-20240905140404246](https://raw.githubusercontent.com/srankXY/goFoods/master/static/img/3.png)
 
 ### 个人中心
 
-![image-20240905140419661](C:\Users\Windows\AppData\Roaming\Typora\typora-user-images\image-20240905140419661.png)
+![image-20240905140419661](https://raw.githubusercontent.com/srankXY/goFoods/master/static/img/4.png)
 
-![image-20240905141409064](C:\Users\Windows\AppData\Roaming\Typora\typora-user-images\image-20240905141409064.png)
+![image-20240905141409064](E:\Git\uni-app\goFoods\goFoods\static\img\5.png)
 
 
 
-![image-20240905140517784](C:\Users\Windows\AppData\Roaming\Typora\typora-user-images\image-20240905140517784.png)
+![image-20240905140517784](https://raw.githubusercontent.com/srankXY/goFoods/master/static/img/6.png)
 
 ### 用户单详情
 
-![image-20240905140629461](C:\Users\Windows\AppData\Roaming\Typora\typora-user-images\image-20240905140629461.png)
+![image-20240905140629461](https://raw.githubusercontent.com/srankXY/goFoods/master/static/img/7.png)
 
 ### 商家&师傅单详情
 
-![image-20240905140656262](C:\Users\Windows\AppData\Roaming\Typora\typora-user-images\image-20240905140656262.png)
+![image-20240905140656262](https://raw.githubusercontent.com/srankXY/goFoods/master/static/img/8.png)
 
